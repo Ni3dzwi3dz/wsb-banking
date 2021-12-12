@@ -3,6 +3,7 @@ package wsb.banking;
 /**
  * Klasa reprezentująca generalną postać konta bankowego
  *
+ *
  * @author Jan 'Ni3dzwi3dz' Sikorski
  */
 public class Account {
